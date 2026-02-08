@@ -27,6 +27,7 @@ Trakya Üniversitesi **Bilgisayar Mühendisliği** mezunuyum ve şu anda Tekirda
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Assembly 8086](https://img.shields.io/badge/Assembly--8086-2E3333?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ---
 
