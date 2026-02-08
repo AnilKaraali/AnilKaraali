@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Merhaba, Ben Anıl KARAALİ
 
-<!--
-**AnilKaraali/AnilKaraali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Hakkımda
+Trakya Üniversitesi **Bilgisayar Mühendisliği** mezunuyum ve şu anda Tekirdağ Namık Kemal Üniversitesi'nde **Bilgisayar Mühendisliği Yüksek Lisans** öğrencisiyim. Akademik bilgimi pratik projelerle birleştirerek kendimi geliştiriyorum.
 
-Here are some ideas to get you started:
+- 🎓 **Lisans:** Trakya Üniversitesi - Bilgisayar Mühendisliği
+- 🎓 **Yüksek Lisans:** Tekirdağ Namık Kemal Üniversitesi - Bilgisayar Mühendisliği (Devam Ediyor)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Şu An Neler Yapıyorum?
+* Veri analizi ve makine öğrenmesi üzerine projeler geliştiriyorum.
+* Algoritma ve veri yapıları konusundaki yetkinliğimi artırıyorum.
+* Açık kaynak projelerine katkıda bulunmaya çalışıyorum.
+
+---
+
+### 🛠️ Teknolojiler (Tech Stack)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
